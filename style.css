@@ -187,7 +187,8 @@ h1 {
   flex: 1 1 0;
   min-width: 0; 
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
+  justify-content: column;
   overflow: hidden;
   border: 1px solid var(--line); 
   border-radius: 14px; 
